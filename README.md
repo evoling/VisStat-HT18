@@ -51,3 +51,7 @@ Data for class exercise
 ## Week 8 (2018-11-12)
 
 The [notes](08.geography/08.notes.nb.html) from class
+
+## Week 9 (2018-11-19)
+
+The [notes](09.workflow/09.notes.nb.html) from class
